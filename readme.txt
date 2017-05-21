@@ -1,1 +1,1 @@
-ʹ��JDBC��ɵ�ͼ���̳�С��Ŀ
+使用JDBC完成的一个BookStore小项目
